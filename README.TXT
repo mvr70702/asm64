@@ -1,3 +1,11 @@
+
+Below is the original readme.txt by loopy. I've fixed a few minor bugs, added a mapfile and some
+directives. 
+
+
+
+
+
 --------------------------------------------------------------
 ASM6 (v1.6)
 A 6502 assembler by loopy (loopy at mm.st)
